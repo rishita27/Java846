@@ -1,1 +1,2 @@
 This is my first document.
+Modifying Doc1 content at central repository.
